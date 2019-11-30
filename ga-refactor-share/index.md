@@ -33,7 +33,7 @@ author: 傅腾达
 - Vuex和localStorage的无缝结合
 
 ## 整体流程
-<img src="../ga-platform-share/images/ga-arc.png" height="500" width="100%"/>
+<img src="./images/ga-platform-share_images_ga-arc.png" height="500" width="100%"/>
 
 
 ## Vue的mixins
