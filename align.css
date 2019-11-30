@@ -1,0 +1,14 @@
+section {
+  text-align: left;
+}
+ol {
+  width: 100%;
+  margin-left: 80px;
+}
+h2 {
+  text-align: center;
+}
+
+section:first-child {
+  text-align: center;
+}
